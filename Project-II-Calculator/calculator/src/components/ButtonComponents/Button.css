@@ -11,8 +11,6 @@
     align-content: center;
     margin: 0;
     border: .001rem solid black;
-
-    
 }
 
 .numberButtonContainer {
@@ -36,6 +34,3 @@
     color: white;
 }
 
-/* .defaultButton {
-    background-color: white;
-} */
