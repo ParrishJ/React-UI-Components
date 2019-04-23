@@ -1,5 +1,12 @@
 .displayDiv {
     background-color: black;
     color: white;
-    width: 99%;
+    width: 100%;
+    text-align: right;
+    padding-right: 1rem;
+    
+}
+
+.displayDiv p {
+    margin: .2rem;
 }
