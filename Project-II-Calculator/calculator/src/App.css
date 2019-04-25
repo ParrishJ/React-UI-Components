@@ -1,0 +1,12 @@
+body {
+    width: 15%;
+    /* min-height: 10rem; */
+    margin-left: 2rem;
+    margin-top: 2rem;
+   
+}
+
+.appDiv {
+    display: flex;
+    flex-wrap: wrap;
+}
